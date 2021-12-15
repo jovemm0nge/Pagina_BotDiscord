@@ -20,10 +20,11 @@ body {
     width: 60%;
 }
 
-#footer
+#footerBottom
 {
-    position: absolute;
-    bottom: 0;
+    position:absolute;
+    bottom:0;
+    width:100%;
 }
 
 
