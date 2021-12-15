@@ -4,9 +4,9 @@ body {
 
 #menu {
     display: flex;
-    background-color: rgb(38, 50, 65);
     margin: 0;
     padding: 0;
+    position: absolute;
 }
 
 #menu li {
@@ -16,27 +16,12 @@ body {
     padding: 15px;
 }
 
-footer {
-    background-color: rgb(38, 50, 65);
+#wave {
+    width: 60%;
 }
 
 
 
-html, body {
-    width: 100%;
-    height: 100%;
-    margin: 0;
-    padding: 0;
-    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
-}
-body {
-    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
-}
-.footer {
-    width: 100%;
-    height:50vh;
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    fill: #ffffff;
-}
+
+
+
