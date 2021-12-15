@@ -1,3 +1,2 @@
-<h1>Kobold Bot from Discord</h1>
-<img src="./Person_Bot.jpg"></img>
-<h2>Discord.py</h2>
+<div align="center" ><h1>>> KOBOLD RPG (DISCORD BOT) <<</h1></div>
+<div align="center" ><img src="./Kobold.png"></img></div>
