@@ -20,14 +20,12 @@ body {
     width: 60%;
 }
 
-#footerBottom
-{
-    position:absolute;
-    bottom:0;
-    width:100%;
+#kobold {
+    width: 20%;
+    float: right;
+    margin-right: 100px;
+    margin-top: 250px;
 }
-
-
 
 
 
