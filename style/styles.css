@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    padding: 0;
 }
 
 #menu {
@@ -7,6 +8,7 @@ body {
     margin: 0;
     padding: 0;
     position: absolute;
+    z-index: 9999;
 }
 
 #menu li {
@@ -17,15 +19,41 @@ body {
 }
 
 #wave {
-    width: 60%;
+    width: 75%;
+    position: absolute;
 }
 
 #kobold {
     width: 20%;
     float: right;
-    margin-right: 100px;
-    margin-top: 250px;
+    margin-right: 200px;
+    margin-top: 450px;
+    z-index: 9999;
 }
 
+.container {
+    position: absolute;
+}
 
+/*
+h1 {
+    color: white;
+    position: absolute;
+    z-index: 9999;
+    padding: 100px;
+}
+*/
+
+#description {
+    color: white;
+    position: absolute;
+    z-index: 9999;
+    margin-top: 95px;
+    margin-left: 40px;
+}
+
+#descriptions {
+    text-align: justify;
+    max-width: 400px;
+}
 
